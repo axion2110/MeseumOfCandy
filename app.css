@@ -42,8 +42,6 @@ body {
     color: #ea1c2c;
 }
 
-/*There are some repeating elment going on, we can already create a class for it, but it is ok with all these going on as well.*/
-
 #headingGroup h1 {
     font-weight: 100;
     font-size: 4rem;
